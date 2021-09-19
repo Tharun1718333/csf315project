@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">cs f315 project test 1</string>
+    <string name="mike">\🎤</string>
+    <string name="search_btn">\🔎</string>
+    <string name="call_btn">\📞</string>
+    <string name="ballot_btn">\🗳️</string>
+    <string name="fire_btn">\🚒</string>
+    <string name="police_btn">\🚔</string>
+    <string name="cricket_btn">\🏏</string>
+    <string name="ambulence_btn">\🚑</string>
+    <string name="weather_btn">\⛅</string>
+
+
+</resources>
