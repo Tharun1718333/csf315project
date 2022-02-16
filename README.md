@@ -1,7 +1,7 @@
 # csf315project
 
 Hi folks
-This is a basic app where I experimented on taking surveys from users who are not literate and has difficulty in using a smartphone
+This is a basic app where I experimented on taking surveys from users who are not literate and has difficulty in using a smartphone.
 
 
 
@@ -16,6 +16,6 @@ extra features I added:-
 2, use the text generated in the google search inside the app itself
 3, in-app google assistant (use google API)
 
-The whole code and the images and recording all are on the src folder 
-I suggest replicating if you need any of them instead of searching for them
-feel free to use it in any of your work!!
+The whole code and the images and recording all are on the src folder. 
+I suggest replicating if you need any of them instead of searching for them.
+Feel free to use it in any of your work!!
